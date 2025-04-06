@@ -68,3 +68,27 @@ h1 {
 .grid {
     opacity: 0;
 }
+
+.fonte-dados {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #555;
+}
+
+.fonte-dados a {
+    color: #3367d6;
+    text-decoration: none;
+}
+
+.fonte-dados a:hover {
+    text-decoration: underline;
+}
+
+.fonte-citacao {
+    text-align: right;
+    font-size: 14px;
+    color: #555;
+    margin-top: 10px;
+    font-style: italic;
+}
